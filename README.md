@@ -28,7 +28,7 @@ By completing the Bandit game, I’ll develop strong Linux and problem-solving s
 
 | Challenge | Title        | Link      | Key Skill                                                              |   
 | --------- | ------------ | --------- | ---------------------------------------------------------------------- | 
-| 0         | Coming soon… | 📂 [Repo]() | e.g. SSH connection basics (`ssh bandit0@bandit.labs.overthewire.org`) |    
+| 0         | 🕹️ OverTheWire – Bandit Level 0 (SSH Login) — Lab | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-0-SSH-Login---Lab/tree/main) | connecting securely to a remote Linux server using SSH on a custom port with username/password authentication |    
 | 0 → 1     | Coming soon… | 📂 [Repo]() | e.g. reading files, understanding `cat` and paths                      |    
 | 1 → 2     | Coming soon… | 📂 [Repo]() | e.g. accessing files with special characters in names                  |   
 | 2 → 3     | Coming soon… | 📂 [Repo]() | e.g. hidden files and directories (`ls -a`)                            |   
