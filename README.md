@@ -33,7 +33,7 @@ By completing the Bandit game, I’ll develop strong Linux and problem-solving s
 | 1 → 2     | 🕹️ OverTheWire — Bandit Level 1 → Level 2 | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-1-Level-2/tree/main) | Handling filenames starting with -, using ./ and -- safely, cat ./-, ssh -p 2220, note-taking discipline |   
 | 2 → 3     | 🕹️ OverTheWire — Bandit Level 2 → Level 3 | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-2-Level-3/tree/main) | Handling tricky filenames with -- and spaces, using cat -- "filename", SSH on port 2220, understanding option parsing behavior |   
 | 3 → 4     | 🕹️ OverTheWire — Bandit Level 3 → Level 4 | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-3-Level-4/tree/main) | Finding hidden dot-files, using ls -a, navigating directories, reading files with cat, SSH on port 2220 |   
-| 4 → 5     | Coming soon… | 📂 [Repo]() | e.g. file filtering and identification commands                        |   
+| 4 → 5     | 🕹️ OverTheWire — Bandit Level 4 → Level 5 | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-4-Level-5/tree/main) | Using file to detect readable files, handling filenames starting with - using --, wildcards (*), ASCII text recognition |   
 | 5 → 6     | Coming soon… | 📂 [Repo]() | e.g. searching for files with specific properties (`find`)             |    
 | 6 → 7     | Coming soon… | 📂 [Repo]() | e.g. file inspection and `grep` usage                                  |    
 | 7 → 8     | Coming soon… | 📂 [Repo]() | e.g. understanding file content redirection and pipes (`               | 
