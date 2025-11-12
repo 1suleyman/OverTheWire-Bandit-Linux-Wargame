@@ -35,7 +35,7 @@ By completing the Bandit game, I’ll develop strong Linux and problem-solving s
 | 3 → 4     | 🕹️ OverTheWire — Bandit Level 3 → Level 4 | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-3-Level-4/tree/main) | Finding hidden dot-files, using ls -a, navigating directories, reading files with cat, SSH on port 2220 |   
 | 4 → 5     | 🕹️ OverTheWire — Bandit Level 4 → Level 5 | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-4-Level-5/tree/main) | Using file to detect readable files, handling filenames starting with - using --, wildcards (*), ASCII text recognition |   
 | 5 → 6     | 🕹️ OverTheWire — Bandit Level 5 → Level 6 | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-5-Level-6/tree/main) | Using find with filters (-type f, -size, -not -executable), file + grep to detect text, recursive search in nested dirs |    
-| 6 → 7     | Coming soon… | 📂 [Repo]() | e.g. file inspection and `grep` usage                                  |    
+| 6 → 7     | 🕹️ OverTheWire — Bandit Level 6 → Level 7 | 📂 [Repo](https://github.com/1suleyman/-OverTheWire-Bandit-Level-6-Level-7/tree/main) | Searching from / with find filters (-user bandit7, -group bandit6, -size 33c), silencing errors with 2>/dev/null, reading result with cat |    
 | 7 → 8     | Coming soon… | 📂 [Repo]() | e.g. understanding file content redirection and pipes (`               | 
 | 8 → 9     | Coming soon… | 📂 [Repo]() | e.g. analyzing file types (`file`, `strings`)                          |    
 | 9 → 10    | Coming soon… | 📂 [Repo]() | e.g. decoding base64 encoded text                                      |   
